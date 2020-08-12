@@ -17,6 +17,7 @@ namespace LeetCode
             var res = TwoNumbersAdd.HashCal(arr, 7);
             Console.WriteLine($"计算结果是：{res[0]} & {res[1]}");
             Console.ReadLine();
+            Console.WriteLine( );
         }
     }
 }
