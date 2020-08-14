@@ -56,6 +56,11 @@ namespace LeetCode
             return new int[] { -1 };
         }
 
+        public static int[] SortCal(int[] nums, int target)
+        {
+            return new int[2];
+        }
+
         
     }
 }
